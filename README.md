@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dinh Phuoc 👋
 
 ### Junior Full-stack Developer | .NET & React
 
@@ -34,15 +34,3 @@ I'm a Fullstack Developer with practical experience developing and maintaining p
 - **Trello Clone** – Kanban task management application built with React, Node.js, Express, and MongoDB.
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 🤝 Connect with me
-
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN_URL)
