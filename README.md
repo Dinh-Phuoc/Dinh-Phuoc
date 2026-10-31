@@ -2,7 +2,7 @@
 
 ### Junior Full-stack Developer | .NET & React
 
-I'm a Fullstack Developer with practical experience developing and maintaining production applications across both backend and frontend systems. Experienced in collaborating with team members, mentoring interns and new developers, and contributing to onboarding and knowledge sharing. Focused on solving business problems, improving system performance and reliability, and delivering scalable, user-focused solutions.
+I'm a Full-stack Developer with hands-on experience developing and maintaining web applications in production environments. Skilled in building backend APIs and frontend interfaces using ASP.NET Core, React, and Next.js. Passionate about solving technical challenges, improving application performance, and delivering reliable, user-focused solutions.
 
 ---
 
