@@ -11,13 +11,13 @@ I'm a Full-stack Developer with hands-on experience developing and maintaining w
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,materialui,antd" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,nestjs,rabbitmq" />
 </p>
 
 ### Database & Tools
